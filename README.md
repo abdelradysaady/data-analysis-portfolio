@@ -1,7 +1,7 @@
 
 # Data Analysis Portfolio
 
-This is my first data analysis project uploaded to GitHub.
+This is my data analysis project uploaded to GitHub.
 
 ### 📊 Project Overview:
 I built a Power BI dashboard to analyze sales performance, including:
